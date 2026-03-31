@@ -38,13 +38,7 @@ As seguintes fontes foram utilizadas no NotebookLM:
 2. NIST Cybersecurity Framework  
    https://www.nist.gov/cyberframework
 
-3. The Web Application Hacker's Handbook  
-   (Livro referência em segurança web)
-
-4. Introduction to Cybersecurity - Cisco  
-   https://www.cisco.com/
-
-5. Kali Linux Tools Documentation  
+3. Kali Linux Tools Documentation  
    https://www.kali.org/tools/
 
 ---
